@@ -1,0 +1,47 @@
+body{
+    background-color: grey;
+}
+h1 {
+    background-color: black;
+    color: white;
+}
+
+h1{
+    color: yellow;
+    background-color: black;
+    text-align: center;
+}
+
+.profile-image {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin:10px 5px;
+}
+    
+
+
+.h2 {
+    font-size: ;
+    
+} 
+
+.centered{
+    text-align: center;
+}
+.img-div{
+    background-color:lightblue;
+    float: left;
+}
+
+.text-div{
+  background-color:lightgreen;
+  float: left;
+  width: 33%;
+}
+
+.list-div{
+    background-color:black;
+    width: 40%;
+}
+
